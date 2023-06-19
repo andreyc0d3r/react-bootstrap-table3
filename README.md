@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/react-bootstrap-table/react-bootstrap-table2.svg?branch=master)](https://travis-ci.org/react-bootstrap-table/react-bootstrap-table2)  
 Rebuild of [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table)
 
-> Note that `react-bootstrap-table2`'s npm module name is [**`react-bootstrap-table-next`**](https://www.npmjs.com/package/react-bootstrap-table-next) due to the name being already taken.
+> Note that `react-bootstrap-table3`'s npm module is a fork of [**`react-bootstrap-table-next`**](https://github.com/react-bootstrap-table/react-bootstrap-table2). Since the packaged is not maintained, I had to fork it.
 
 `react-bootstrap-table2` separates some functionalities from its core modules to other modules as listed in the following:
 
